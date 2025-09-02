@@ -7,4 +7,8 @@ ESP32-C6 Indoor Air Quality Sensor using the Sensirion STCC4
 
 ![Image](https://github.com/user-attachments/assets/96d416f5-c9a1-4436-8bf4-bc05155758c5)
 
+![SHT40](https://github.com/user-attachments/assets/35f35548-4c99-44dc-9138-bd6fa7f69453)
+
+![0x44](https://github.com/user-attachments/assets/24c1ce9d-c585-4a3e-96f3-da79fa567a86)
+
 
