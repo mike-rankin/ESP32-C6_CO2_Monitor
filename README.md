@@ -1,5 +1,6 @@
 # ESP32-C6_CO2_Monitor
-ESP32-C6 Indoor Air Quality Sensor using the Sensirion STCC4
+This project is an updated co2 monitor using the new STCC4 sensor from Sensirion. For years I've been using the larger SCD40 that was difficult to fit into smaller designs because of it's large size. 
+
 
 ![Image](https://github.com/user-attachments/assets/72068511-5802-4c6e-9ea5-93395581b8e4)
 
