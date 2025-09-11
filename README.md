@@ -18,4 +18,13 @@ When sourcing parts, remember to order the correct SHT40 needed for STCC4 temper
 
 ![SHT40](https://github.com/user-attachments/assets/35f35548-4c99-44dc-9138-bd6fa7f69453)
 
+Pricing for components in small quantities are:
+STCC4 - Digi-Key $8.27
+SHT40-AD1B-R3 - Digi-Key $1.80
+C3001294 (USB-C) - LCSC $0.52
+C5736265 (ESP32-C6) - LCSC $4.57
+ER-TFT1.28-2 (LCD) - BuyDisplay $8.41
+
+
+
 
