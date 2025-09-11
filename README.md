@@ -1,8 +1,9 @@
 # ESP32-C6_CO2_Monitor
-This project is an updated co2 monitor using the new STCC4 sensor from Sensirion. For years I've been using the larger SCD40 that was difficult to fit into smaller designs because of it's large size. 
-
+This project is an updated co2 monitor using the new STCC4 sensor from Sensirion. For years I've been using the larger SCD40 that was difficult to fit into smaller designs because of it's large size. Below you can see the size differences between the two.
 
 ![Image](https://github.com/user-attachments/assets/72068511-5802-4c6e-9ea5-93395581b8e4)
+
+The SCD40 measures co2 from 400ppm to 2000ppm +/-50ppm in a 10.1mm x 10.1mm footprint and the STCC4 measures from 400ppm to 5000ppm +/-100ppm in a 3mm x 4mm footprint.
 
 ![Image](https://github.com/user-attachments/assets/6e485b48-bdf8-4c9a-a6b3-adab1874f1a9)
 
