@@ -5,7 +5,7 @@ This project is an updated co2 monitor using the new STCC4 sensor from Sensirion
 
 The SCD40 measures co2 from 400ppm to 2000ppm +/-50ppm in a 10.1mm x 10.1mm footprint and the STCC4 measures from 400ppm to 5000ppm +/-100ppm in a 3mm x 4mm footprint.
 
-![Image](https://github.com/user-attachments/assets/6e485b48-bdf8-4c9a-a6b3-adab1874f1a9)
+![Image](https://github.com/user-attachments/assets/bad4bfa6-e911-40ec-a6ea-7f511e22f056)
 
 ![Image](https://github.com/user-attachments/assets/96d416f5-c9a1-4436-8bf4-bc05155758c5)
 
