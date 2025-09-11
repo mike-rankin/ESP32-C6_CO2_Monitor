@@ -1,5 +1,5 @@
 # ESP32-C6_CO2_Monitor
-This project is an updated design of [this older https://github.com/mike-rankin/ESP32-S3_CO2_Monitor](url) co2 monitor using the new STCC4 sensor from Sensirion. For years I've been using the larger SCD40 that was difficult to fit into smaller designs because of it's large size. Below you can see the size differences between the two.
+This project is an updated design of this older (https://github.com/mike-rankin/ESP32-S3_CO2_Monitor) co2 monitor using the new STCC4 sensor from Sensirion. For years I've been using the larger SCD40 that was difficult to fit into smaller designs because of it's large size. Below you can see the size differences between the two.
 
 ![Image](https://github.com/user-attachments/assets/72068511-5802-4c6e-9ea5-93395581b8e4)
 
