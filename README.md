@@ -9,7 +9,6 @@ This project is an updated design of this older (https://github.com/mike-rankin/
 
 ![Image](https://github.com/user-attachments/assets/6175e380-6f81-4a22-9fe6-c53e2083ea8e)
 
-![Image](https://github.com/user-attachments/assets/72068511-5802-4c6e-9ea5-93395581b8e4)
 
 The SCD40 measures co2 from 400ppm to 2000ppm +/-50ppm in a 10.1mm x 10.1mm footprint and the STCC4 measures from 400ppm to 5000ppm +/-100ppm in a 3mm x 4mm footprint.
 
