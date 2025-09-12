@@ -14,9 +14,9 @@ Problems with this design are the delicate push and pull stress on the USB-C con
 
 ![Image](https://github.com/user-attachments/assets/dc99ab8b-afc5-45ba-a9b0-0a1edd09c7bf)
 
-![Image](https://github.com/user-attachments/assets/1b195b65-46e8-4820-b8b8-81d64bf9f1eb)
-
 ![Image](https://github.com/user-attachments/assets/a1fdf15a-cb29-4626-ba2c-65c120033b61)
+
+![Image](https://github.com/user-attachments/assets/1b195b65-46e8-4820-b8b8-81d64bf9f1eb)
 
 ![Image](https://github.com/user-attachments/assets/4744913b-d26a-43b7-82ad-a0a49992b2b4)
 
