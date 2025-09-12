@@ -20,6 +20,8 @@ Problems with this design are the delicate push and pull stress on the USB-C con
 
 ![Image](https://github.com/user-attachments/assets/4744913b-d26a-43b7-82ad-a0a49992b2b4)
 
+https://imgur.com/7GUWdMQ
+
 When sourcing parts, remember to order the correct SHT40 needed for STCC4 temperature and humidity compensation. This part connects directly to the STCC4, must be as close as possible and must have an i2c address of 0x44. A sensor with a different address will be ignored.
 
 ![0x44](https://github.com/user-attachments/assets/24c1ce9d-c585-4a3e-96f3-da79fa567a86)
