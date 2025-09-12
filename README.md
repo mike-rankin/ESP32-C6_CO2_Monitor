@@ -3,8 +3,6 @@ This project is an updated design of this older (https://github.com/mike-rankin/
 
 ![Image](https://github.com/user-attachments/assets/d98041f9-f998-44c4-b682-de20ce373ed5)
 
-![Image](https://github.com/user-attachments/assets/4744913b-d26a-43b7-82ad-a0a49992b2b4)
-
 The SCD40 measures co2 from 400ppm to 2000ppm +/-50ppm in a 10.1mm x 10.1mm footprint and the STCC4 measures from 400ppm to 5000ppm +/-100ppm in a 3mm x 4mm footprint.
 
 This custom board designed in Altium is powered by a USB-C phone charger and is the same size as the display using as few parts as possible. A few features I've added are backlight control for dimming, a Qwiic i2c connector for adding other sensors and sensors on the front side.
@@ -17,6 +15,8 @@ Problems with this design are the delicate push and pull stress on the USB-C con
 ![Image](https://github.com/user-attachments/assets/dc99ab8b-afc5-45ba-a9b0-0a1edd09c7bf)
 
 ![Image](https://github.com/user-attachments/assets/a1fdf15a-cb29-4626-ba2c-65c120033b61)
+
+![Image](https://github.com/user-attachments/assets/4744913b-d26a-43b7-82ad-a0a49992b2b4)
 
 When sourcing parts, remember to order the correct SHT40 needed for STCC4 temperature and humidity compensation. This part connects directly to the STCC4, must be as close as possible and must have an i2c address of 0x44. A sensor with a different address will be ignored.
 
