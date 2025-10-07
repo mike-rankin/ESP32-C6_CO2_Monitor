@@ -35,6 +35,6 @@ Pricing for components in small quantities are:
 <br/>C5736265 (ESP32-C6) - LCSC $4.57
 ER-TFT1.28-2 (LCD) - BuyDisplay $8.41
 
-
+Custom design work may be possible if you have a project in mind that you would like to see put together. Feel free to reach me on X @mikerankin or by email at 0miker0@gmail.com
 
 
